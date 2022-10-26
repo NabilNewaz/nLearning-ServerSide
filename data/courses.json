@@ -7,14 +7,20 @@
         "course_price": "1000",
         "course_rating": "2.5",
         "course_discription": "Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities.  The textbook we use is available online, “The Missing Link: An Introduction to Web Development and Programming” by Michael Mendez from www.opensuny.org. This course will appeal to a wide variety of people, but specifically those who would like a step-by-step description of the basics. There are no prerequisites for this course and it is assumed that students have no prior programming skills or IT experience. The course will culminate in a small final project that will require the completion of a very simple page with links and images. The focus of this course is on the basics, not appearance. You can see a sample final page at http://intro-webdesign.com/html5-plain.html. This is the first course in the Web Design For Everybody specialization. Subsequent courses focus on the marketable skills of styling the page with CSS3, adding interactivity with JavaScript and enhancing the styling with responsive design. You can see a sample site for the capstone course at http://intro-webdesign.com/",
+        "skill_gain": [
+            "Web Design",
+            "Web Accessibility",
+            "HTML",
+            "Html5"
+        ],
         "course_instructor": {
-            "name": "Colleen van Lent, Ph.D.",
-            "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f8/0fc2004cfc11e5b1b0bd675d89e7b7/van_lent_colleen_082615_063_square.jpg",
-            "designation": "Lecturer",
+            "name": "Charles Russell Severance",
+            "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/be/edf8690432469fb182e4313a3ee7ef/Charles-Severance.jpeg",
+            "designation": "Clinical Professor",
             "institute": "School of Information",
-            "learners": "586,846",
-            "courses": "11",
-            "rating": "4.5"
+            "learners": "3,595,758",
+            "courses": "48",
+            "rating": "5.0"
         }
     },
     {
@@ -24,7 +30,13 @@
         "course_skills": "Skills you'll gain: Web Design with CSS for Web Development",
         "course_price": "1000",
         "course_rating": "3.5",
-        "course_discription": "Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities.  The textbook we use is available online, “The Missing Link: An Introduction to Web Development and Programming” by Michael Mendez from www.opensuny.org. This course will appeal to a wide variety of people, but specifically those who would like a step-by-step description of the basics. There are no prerequisites for this course and it is assumed that students have no prior programming skills or IT experience. The course will culminate in a small final project that will require the completion of a very simple page with links and images. The focus of this course is on the basics, not appearance. You can see a sample final page at http://intro-webdesign.com/html5-plain.html. This is the first course in the Web Design For Everybody specialization. Subsequent courses focus on the marketable skills of styling the page with CSS3, adding interactivity with JavaScript and enhancing the styling with responsive design. You can see a sample site for the capstone course at http://intro-webdesign.com/",
+        "course_discription": "The web today is almost unrecognizable from the early days of white pages with lists of blue links. Now, sites are designed with complex layouts, unique fonts, and customized color schemes.   This course will show you the basics of Cascading Style Sheets (CSS3).  The emphasis will be on learning how to write CSS rules, how to test code, and how to establish good programming habits. When done correctly, the styling of a webpage can take enhance your page.   When done incorrectly the result can be worse than no styling at all.    To ensure that your sites do not put up  barriers for people with cognitive and/or physical disabilities, you will learn how to evaluate pages using the standardized POUR accessibility guidelines.    Upon completion of the course, learners will be able to sketch a design for a given HTML page.  Using that design they will use CSS to implement the design by adding fonts, colors, and  layouts. This is the second course in the Web Design For Everybody specialization.   Subsequent courses focus on adding interaction with JavaScript and enhancing the styling with responsive design. It will be difficult to complete this course if you do not have access to a laptop or desktop computer for the homework.",
+        "skill_gain": [
+            "Web Design",
+            "Style Sheets",
+            "Cascading Style Sheets (CSS)",
+            "Web Development"
+        ],
         "course_instructor": {
             "name": "Colleen van Lent, Ph.D.",
             "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f8/0fc2004cfc11e5b1b0bd675d89e7b7/van_lent_colleen_082615_063_square.jpg",
@@ -42,15 +54,23 @@
         "course_skills": "Build Your Skills in JavaScript and jQuery. Start a journey to using JavaScript to become a programmer.",
         "course_price": "1000",
         "course_rating": "4.5",
-        "course_discription": "Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities.  The textbook we use is available online, “The Missing Link: An Introduction to Web Development and Programming” by Michael Mendez from www.opensuny.org. This course will appeal to a wide variety of people, but specifically those who would like a step-by-step description of the basics. There are no prerequisites for this course and it is assumed that students have no prior programming skills or IT experience. The course will culminate in a small final project that will require the completion of a very simple page with links and images. The focus of this course is on the basics, not appearance. You can see a sample final page at http://intro-webdesign.com/html5-plain.html. This is the first course in the Web Design For Everybody specialization. Subsequent courses focus on the marketable skills of styling the page with CSS3, adding interactivity with JavaScript and enhancing the styling with responsive design. You can see a sample site for the capstone course at http://intro-webdesign.com/",
+        "course_discription": "This Specialization is intended for the learner with no previous programming experience or the career changer transitioning to software development. JavaScript is generally the first programming language you will need to learn and this Specialization will help you practice and build your skills through a gentle progression of modules and courses. Learners will be able to follow along with the instructor and be able to apply and practice their learning through a series of low-stakes challenges and projects. Quizzes are the main assessment for this Specialization, along with Honor options in a couple of the courses.",
+        "skill_gain": [
+            "Web Interactivty",
+            "Document Object Model (DOM)",
+            "Jquery",
+            "Data Manipulation",
+            "JavaScript",
+            "Animations"
+        ],
         "course_instructor": {
-            "name": "Colleen van Lent, Ph.D.",
-            "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f8/0fc2004cfc11e5b1b0bd675d89e7b7/van_lent_colleen_082615_063_square.jpg",
+            "name": "William Mead",
+            "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b6/8ba576cb0a448da52a28e6029e7dca/Bill2016.jpg",
             "designation": "Lecturer",
-            "institute": "School of Information",
-            "learners": "586,846",
-            "courses": "11",
-            "rating": "4.5"
+            "institute": "Design Department",
+            "learners": "39,468",
+            "courses": "4",
+            "rating": "3.5"
         }
     },
     {
@@ -60,15 +80,20 @@
         "course_skills": "HTML and CSS, PHP Programming Languages, Web Development",
         "course_price": "4000",
         "course_rating": "4.9",
-        "course_discription": "Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities.  The textbook we use is available online, “The Missing Link: An Introduction to Web Development and Programming” by Michael Mendez from www.opensuny.org. This course will appeal to a wide variety of people, but specifically those who would like a step-by-step description of the basics. There are no prerequisites for this course and it is assumed that students have no prior programming skills or IT experience. The course will culminate in a small final project that will require the completion of a very simple page with links and images. The focus of this course is on the basics, not appearance. You can see a sample final page at http://intro-webdesign.com/html5-plain.html. This is the first course in the Web Design For Everybody specialization. Subsequent courses focus on the marketable skills of styling the page with CSS3, adding interactivity with JavaScript and enhancing the styling with responsive design. You can see a sample site for the capstone course at http://intro-webdesign.com/",
+        "course_discription": "In this course, you'll explore the basic structure of a web application, and how a web browser interacts with a web server. You'll be introduced to the request/response cycle, including GET/POST/Redirect. You'll also gain an introductory understanding of Hypertext Markup Language (HTML), as well as the basic syntax and data structures of the PHP language, variables, logic, iteration, arrays, error handling, and superglobal variables, among other elements. An introduction to Cascading Style Sheets (CSS) will allow you to style markup for webpages. Lastly, you'll gain the skills and knowledge to install and use an integrated PHP/MySQL environment like XAMPP or MAMP.",
+        "skill_gain": [
+            "Hypertext Preprocessor (PHP)",
+            "HTML",
+            "Cascading Style Sheets (CSS)"
+        ],
         "course_instructor": {
-            "name": "Colleen van Lent, Ph.D.",
-            "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f8/0fc2004cfc11e5b1b0bd675d89e7b7/van_lent_colleen_082615_063_square.jpg",
-            "designation": "Lecturer",
+            "name": "Charles Russell Severance",
+            "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/be/edf8690432469fb182e4313a3ee7ef/Charles-Severance.jpeg",
+            "designation": "Clinical Professor",
             "institute": "School of Information",
-            "learners": "586,846",
-            "courses": "11",
-            "rating": "4.5"
+            "learners": "3,595,758",
+            "courses": "48",
+            "rating": "5.0"
         }
     },
     {
@@ -78,15 +103,21 @@
         "course_skills": "Computer Programming Tools, Computer Programming, Statistical Programming, Data Management, Regular Expression, Web, Computer etc",
         "course_price": "1000",
         "course_rating": "5.0",
-        "course_discription": "Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities.  The textbook we use is available online, “The Missing Link: An Introduction to Web Development and Programming” by Michael Mendez from www.opensuny.org. This course will appeal to a wide variety of people, but specifically those who would like a step-by-step description of the basics. There are no prerequisites for this course and it is assumed that students have no prior programming skills or IT experience. The course will culminate in a small final project that will require the completion of a very simple page with links and images. The focus of this course is on the basics, not appearance. You can see a sample final page at http://intro-webdesign.com/html5-plain.html. This is the first course in the Web Design For Everybody specialization. Subsequent courses focus on the marketable skills of styling the page with CSS3, adding interactivity with JavaScript and enhancing the styling with responsive design. You can see a sample site for the capstone course at http://intro-webdesign.com/",
+        "course_discription": "This course will show how one can treat the Internet as a source of data.  We will scrape, parse, and read web data as well as access data using web APIs.  We will work with HTML, XML, and JSON data formats in Python.  This course will cover Chapters 11-13 of the textbook “Python for Everybody”. To succeed in this course, you should be familiar with the material covered in Chapters 1-10 of the textbook and the first two courses in this specialization.  These topics include variables and expressions, conditional execution (loops, branching, and try/except), functions, Python data structures (strings, lists, dictionaries, and tuples), and manipulating files.  This course covers Python 3.",
+        "skill_gain": [
+            "Json",
+            "Xml",
+            "Python Programming",
+            "Web Scraping"
+        ],
         "course_instructor": {
-            "name": "Colleen van Lent, Ph.D.",
-            "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f8/0fc2004cfc11e5b1b0bd675d89e7b7/van_lent_colleen_082615_063_square.jpg",
-            "designation": "Lecturer",
+            "name": "Charles Russell Severance",
+            "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/be/edf8690432469fb182e4313a3ee7ef/Charles-Severance.jpeg",
+            "designation": "Clinical Professor",
             "institute": "School of Information",
-            "learners": "586,846",
-            "courses": "11",
-            "rating": "4.5"
+            "learners": "3,595,758",
+            "courses": "48",
+            "rating": "5.0"
         }
     },
     {
@@ -96,7 +127,13 @@
         "course_skills": "Application Development, Cloud Computing, Computer Programming, Bootstrap (Front-End Framework), Jquery, SASS (Stylesheet Language), Authentication",
         "course_price": "6000",
         "course_rating": "3.7",
-        "course_discription": "Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities.  The textbook we use is available online, “The Missing Link: An Introduction to Web Development and Programming” by Michael Mendez from www.opensuny.org. This course will appeal to a wide variety of people, but specifically those who would like a step-by-step description of the basics. There are no prerequisites for this course and it is assumed that students have no prior programming skills or IT experience. The course will culminate in a small final project that will require the completion of a very simple page with links and images. The focus of this course is on the basics, not appearance. You can see a sample final page at http://intro-webdesign.com/html5-plain.html. This is the first course in the Web Design For Everybody specialization. Subsequent courses focus on the marketable skills of styling the page with CSS3, adding interactivity with JavaScript and enhancing the styling with responsive design. You can see a sample site for the capstone course at http://intro-webdesign.com/",
+        "course_discription": "Learn front-end and hybrid mobile development, with server-side support, for implementing a multi-platform solution. The first two courses in this Specialization cover front-end frameworks: Bootstrap 4 and React. On the server side, you’ll learn to implement NoSQL databases using MongoDB, work within a Node.js environment and Express framework, and communicate to the client side through a RESTful API. Learners enrolling in this Specialization are expected to have prior working knowledge of HTML, CSS and JavaScript. Ideally learners should complete the courses in the specified sequence. Learners will work on hands-on exercises, culminating in development of a full-fledged application at the end of each course. Each course also includes a mini-Capstone Project as part of the Honors Track where you’ll apply your skills to build a fully functional project.",
+        "skill_gain": [
+            "Json",
+            "Xml",
+            "Python Programming",
+            "Web Scraping"
+        ],
         "course_instructor": {
             "name": "Colleen van Lent, Ph.D.",
             "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f8/0fc2004cfc11e5b1b0bd675d89e7b7/van_lent_colleen_082615_063_square.jpg",
