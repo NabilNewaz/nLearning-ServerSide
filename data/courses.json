@@ -17,7 +17,7 @@
             "name": "Charles Russell Severance",
             "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/be/edf8690432469fb182e4313a3ee7ef/Charles-Severance.jpeg",
             "designation": "Clinical Professor",
-            "institute": "School of Information",
+            "institute": "University of Michigan",
             "learners": "3,595,758",
             "courses": "48",
             "rating": "5.0"
@@ -41,7 +41,7 @@
             "name": "Colleen van Lent, Ph.D.",
             "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f8/0fc2004cfc11e5b1b0bd675d89e7b7/van_lent_colleen_082615_063_square.jpg",
             "designation": "Lecturer",
-            "institute": "School of Information",
+            "institute": "University of Michigan",
             "learners": "586,846",
             "courses": "11",
             "rating": "4.5"
@@ -67,7 +67,7 @@
             "name": "William Mead",
             "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/b6/8ba576cb0a448da52a28e6029e7dca/Bill2016.jpg",
             "designation": "Lecturer",
-            "institute": "Design Department",
+            "institute": "University of California, Davis",
             "learners": "39,468",
             "courses": "4",
             "rating": "3.5"
@@ -90,7 +90,7 @@
             "name": "Charles Russell Severance",
             "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/be/edf8690432469fb182e4313a3ee7ef/Charles-Severance.jpeg",
             "designation": "Clinical Professor",
-            "institute": "School of Information",
+            "institute": "University of Michigan",
             "learners": "3,595,758",
             "courses": "48",
             "rating": "5.0"
@@ -114,7 +114,7 @@
             "name": "Charles Russell Severance",
             "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/be/edf8690432469fb182e4313a3ee7ef/Charles-Severance.jpeg",
             "designation": "Clinical Professor",
-            "institute": "School of Information",
+            "institute": "University of Michigan",
             "learners": "3,595,758",
             "courses": "48",
             "rating": "5.0"
@@ -129,19 +129,22 @@
         "course_rating": "3.7",
         "course_discription": "Learn front-end and hybrid mobile development, with server-side support, for implementing a multi-platform solution. The first two courses in this Specialization cover front-end frameworks: Bootstrap 4 and React. On the server side, you’ll learn to implement NoSQL databases using MongoDB, work within a Node.js environment and Express framework, and communicate to the client side through a RESTful API. Learners enrolling in this Specialization are expected to have prior working knowledge of HTML, CSS and JavaScript. Ideally learners should complete the courses in the specified sequence. Learners will work on hands-on exercises, culminating in development of a full-fledged application at the end of each course. Each course also includes a mini-Capstone Project as part of the Honors Track where you’ll apply your skills to build a fully functional project.",
         "skill_gain": [
-            "Json",
-            "Xml",
-            "Python Programming",
-            "Web Scraping"
+            "Bootstrap (Front-End Framework)",
+            "Node.Js",
+            "Jquery",
+            "SASS (Stylesheet Language)",
+            "Authentication",
+            "Mongodb",
+            "Express.Js"
         ],
         "course_instructor": {
-            "name": "Colleen van Lent, Ph.D.",
-            "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f8/0fc2004cfc11e5b1b0bd675d89e7b7/van_lent_colleen_082615_063_square.jpg",
-            "designation": "Lecturer",
-            "institute": "School of Information",
-            "learners": "586,846",
-            "courses": "11",
-            "rating": "4.5"
+            "name": "Jogesh K. Muppala",
+            "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c5/b6cf60386611e5a935a59c4b6594da/muppala-small.jpg",
+            "designation": "Associate Professor",
+            "institute": "The Hong Kong University of Science and Technology",
+            "learners": "595,948",
+            "courses": "12",
+            "rating": "4.7"
         }
     },
     {
@@ -151,15 +154,21 @@
         "course_skills": "Mongodb, Operating Systems, Front And Backend",
         "course_price": "5000",
         "course_rating": "4.7",
-        "course_discription": "Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities.  The textbook we use is available online, “The Missing Link: An Introduction to Web Development and Programming” by Michael Mendez from www.opensuny.org. This course will appeal to a wide variety of people, but specifically those who would like a step-by-step description of the basics. There are no prerequisites for this course and it is assumed that students have no prior programming skills or IT experience. The course will culminate in a small final project that will require the completion of a very simple page with links and images. The focus of this course is on the basics, not appearance. You can see a sample final page at http://intro-webdesign.com/html5-plain.html. This is the first course in the Web Design For Everybody specialization. Subsequent courses focus on the marketable skills of styling the page with CSS3, adding interactivity with JavaScript and enhancing the styling with responsive design. You can see a sample site for the capstone course at http://intro-webdesign.com/",
+        "course_discription": "This course deals with all things server-side. We base the entire course around the NodeJS platform. We start with a brief overview of the Web protocols: HTTP and HTTPS. We examine NodeJS and NodeJS modules: Express for building web servers. On the database side, we review basic CRUD operations, NoSQL databases, in particular MongoDB and Mongoose for accessing MongoDB from NodeJS. We examine the REST concepts and building a RESTful API. We touch upon authentication and security. Finally we review backend as a service (BaaS) approaches, including mobile BaaS, both open-source and commercial BaaS services. At the end of this course, you will be able to: Demonstrate an understanding of server-side concepts, CRUD and REST, Build and configure a backend server using NodeJS framework, Build a RESTful API for the front-end to access backend services",
+        "skill_gain": [
+            "Authentication",
+            "Node.Js",
+            "Mongodb",
+            "Express.Js"
+        ],
         "course_instructor": {
-            "name": "Colleen van Lent, Ph.D.",
-            "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f8/0fc2004cfc11e5b1b0bd675d89e7b7/van_lent_colleen_082615_063_square.jpg",
-            "designation": "Lecturer",
-            "institute": "School of Information",
-            "learners": "586,846",
-            "courses": "11",
-            "rating": "4.5"
+            "name": "Jogesh K. Muppala",
+            "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c5/b6cf60386611e5a935a59c4b6594da/muppala-small.jpg",
+            "designation": "Associate Professor",
+            "institute": "The Hong Kong University of Science and Technology",
+            "learners": "595,948",
+            "courses": "12",
+            "rating": "4.7"
         }
     },
     {
@@ -169,15 +178,21 @@
         "course_skills": "Javascript, Web, Programming Principles, Web Development, Angularjs",
         "course_price": "6000",
         "course_rating": "4.3",
-        "course_discription": "Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities.  The textbook we use is available online, “The Missing Link: An Introduction to Web Development and Programming” by Michael Mendez from www.opensuny.org. This course will appeal to a wide variety of people, but specifically those who would like a step-by-step description of the basics. There are no prerequisites for this course and it is assumed that students have no prior programming skills or IT experience. The course will culminate in a small final project that will require the completion of a very simple page with links and images. The focus of this course is on the basics, not appearance. You can see a sample final page at http://intro-webdesign.com/html5-plain.html. This is the first course in the Web Design For Everybody specialization. Subsequent courses focus on the marketable skills of styling the page with CSS3, adding interactivity with JavaScript and enhancing the styling with responsive design. You can see a sample site for the capstone course at http://intro-webdesign.com/",
+        "skill_gain": [
+            "Unit Testing",
+            "JavaScript",
+            "Angularjs",
+            "Web Development"
+        ],
+        "course_discription": "Do you want to write powerful, maintainable, and testable front end applications faster and with less code? Then consider joining this course to gain skills in one of the most popular Single Page Application (SPA) frameworks today, AngularJS. Developed and backed by Google, AngularJS is a very marketable skill to acquire. In this course, we will explore the core design of AngularJS 1.x (latest version of AngularJS 1), its components and code organization techniques. We will enhance the functionality of our web app by utilizing dependency injection to reuse existing services as well as write our own. We will create reusable HTML components that take advantage of AngularJS data binding as well as extend HTML syntax with a very powerful feature of AngularJS called directives. We’ll set up routing so our SPA can have multiple views. We will also learn how to unit test our functionality. At the end of this course, you will build a fully functional, well organized and tested web application using AngularJS and deploy it to the cloud.",
         "course_instructor": {
-            "name": "Colleen van Lent, Ph.D.",
-            "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/f8/0fc2004cfc11e5b1b0bd675d89e7b7/van_lent_colleen_082615_063_square.jpg",
-            "designation": "Lecturer",
-            "institute": "School of Information",
-            "learners": "586,846",
-            "courses": "11",
-            "rating": "4.5"
+            "name": "Yaakov Chaikin",
+            "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/c3/78ea703be111e5badc79dbdaa0a51c/4R5A7061Coursera2.jpg",
+            "designation": "Adjunct Professor, Graduate Computer Science",
+            "institute": "Johns Hopkins University",
+            "learners": "891,340",
+            "courses": "2",
+            "rating": "4.3"
         }
     }
 ]
